@@ -1,0 +1,17 @@
+$nomention
+$title[Bot infor]
+$description[Essas são minhas Informações!
+
+**Comunidade:**
+Estou em $serverCount E ajudando $allMembersCount pessoas.
+**Data de criação:**
+$creationDate[id do seu bot]
+**Invite:**
+Clique [Aqui](link de convite do seu bot) para me adicionar ao seu servidor!
+**Suporte:**
+Para obter suporte entre em meu servidor, [Entrar](Link do servidor do seu bot)
+**Ping:**
+Meu Ping esta em $ping
+]
+$footer[Criado por "Seu nome"]
+$footerIcon[$authorAvatar]
